@@ -32,7 +32,7 @@
     <SccLocalPath>SAK</SccLocalPath>
     <SccAuxPath>SAK</SccAuxPath>
     <SccProvider>SAK</SccProvider>
-    <PublishUrl>C:\Users\crmio\OneDrive\Documentos\SL\Publish\Producao2012\</PublishUrl>
+    <PublishUrl>D:\repos\deploy\</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Disk</InstallFrom>
     <UpdateEnabled>false</UpdateEnabled>
@@ -46,8 +46,8 @@
     <PublisherName>Departamento de TI - Cartonagem Sao Luiz</PublisherName>
     <SuiteName>Produção 2012</SuiteName>
     <WebPage>publish.htm</WebPage>
-    <ApplicationRevision>14</ApplicationRevision>
-    <ApplicationVersion>1.2.9.14</ApplicationVersion>
+    <ApplicationRevision>17</ApplicationRevision>
+    <ApplicationVersion>1.2.9.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <PublishWizardCompleted>true</PublishWizardCompleted>
     <BootstrapperEnabled>true</BootstrapperEnabled>
