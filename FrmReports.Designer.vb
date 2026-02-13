@@ -30,7 +30,9 @@ Partial Class FrmReports
         Me.ReportViewer1.Dock = System.Windows.Forms.DockStyle.Fill
         Me.ReportViewer1.Location = New System.Drawing.Point(0, 0)
         Me.ReportViewer1.Name = "ReportViewer1"
+        Me.ReportViewer1.ProcessingMode = Microsoft.Reporting.WinForms.ProcessingMode.Remote
         Me.ReportViewer1.ServerReport.BearerToken = Nothing
+        Me.ReportViewer1.ServerReport.ReportServerUrl = New System.Uri("", System.UriKind.Relative)
         Me.ReportViewer1.Size = New System.Drawing.Size(1278, 395)
         Me.ReportViewer1.TabIndex = 0
         '
